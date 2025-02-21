@@ -1,0 +1,101 @@
+ID_Venda;Data;Produto;Categoria;Quantidade;Preco_Unitario;Total_Venda
+1;08/02/2024;Mouse;Eletrônicos;4;4756.04;19024.16
+2;12/02/2024;Notebook;Eletrônicos;8;3013.36;24106.88
+3;08/02/2024;Mesa de Escritório;Móveis;3;544.88;1634.64
+4;11/01/2024;Cadeira Gamer;Móveis;8;1701.86;13614.88
+5;09/02/2024;Cadeira Gamer;Móveis;8;3271.9;26175.2
+6;22/02/2024;Teclado;Eletrônicos;2;3623.89;7247.78
+7;30/01/2024;Mouse;Eletrônicos;6;53.85;323.1
+8;29/02/2024;Headset;Eletrônicos;5;3106.53;15532.65
+9;27/02/2024;Mouse;Eletrônicos;6;84.98;509.88
+10;25/01/2024;Impressora;Eletrônicos;1;2647.63;2647.63
+11;11/02/2024;Tablet;Eletrônicos;;1943.19;
+12;21/02/2024;Notebook;Eletrônicos;9;279.93;2519.37
+13;20/02/2024;Notebook;Eletrônicos;7;894.09;6258.63
+14;08/02/2024;Mouse;Eletrônicos;2;4746.98;9493.96
+15;29/02/2024;Cadeira Gamer;Móveis;2;1957.81;3915.62
+16;26/01/2024;Cadeira Gamer;Móveis;5;1192.92;5964.6
+17;28/01/2024;Headset;Eletrônicos;7;3069.48;21486.36
+18;08/01/2024;Impressora;Eletrônicos;3;4551.14;13653.42
+19;05/02/2024;Notebook;Eletrônicos;2;;6658.98
+20;02/01/2024;Headset;Eletrônicos;6;1079.31;6475.86
+21;04/01/2024;Cadeira Gamer;Móveis;6;205.0;1230.0
+22;18/01/2024;Headset;Eletrônicos;2;2005.99;4011.98
+23;05/02/2024;Tablet;Eletrônicos;;2873.7;22989.6
+24;29/02/2024;Cadeira Gamer;Móveis;9;4807.8;
+25;21/01/2024;Monitor;Eletrônicos;2;2721.48;5442.96
+26;24/01/2024;Impressora;Eletrônicos;9;1440.63;12965.67
+27;29/02/2024;Mesa de Escritório;Móveis;9;1516.55;13648.95
+28;14/02/2024;Notebook;Eletrônicos;1;127.4;
+29;09/01/2024;Teclado;Eletrônicos;8;2004.66;16037.28
+30;08/01/2024;Tablet;Eletrônicos;8;119.7;957.6
+31;20/02/2024;Celular;Eletrônicos;1;3571.14;3571.14
+32;04/02/2024;Mesa de Escritório;Móveis;1;3049.5;3049.5
+33;11/02/2024;Teclado;Eletrônicos;7;3272.83;22909.81
+34;28/01/2024;Cadeira Gamer;Móveis;7;4257.69;
+35;12/01/2024;Celular;Eletrônicos;2;522.28;1044.56
+36;24/02/2024;Mouse;Eletrônicos;;3360.76;23525.32
+37;06/02/2024;Mouse;Eletrônicos;3;2976.92;8930.76
+38;22/01/2024;Tablet;Eletrônicos;3;2387.46;7162.38
+39;06/02/2024;Mouse;Eletrônicos;3;3815.89;
+40;26/01/2024;Celular;Eletrônicos;7;3866.29;27064.03
+41;08/02/2024;Celular;Eletrônicos;9;3567.78;32110.02
+42;26/01/2024;Impressora;Eletrônicos;3;205.57;616.71
+43;08/02/2024;Mesa de Escritório;Móveis;1;1606.06;1606.06
+44;01/02/2024;Notebook;Eletrônicos;4;4542.45;18169.8
+45;23/01/2024;Monitor;Eletrônicos;7;2081.4;14569.8
+46;12/02/2024;Headset;Eletrônicos;;4717.13;18868.52
+47;07/01/2024;Mouse;Eletrônicos;3;848.05;2544.15
+48;02/01/2024;Tablet;Eletrônicos;9;572.2;5149.8
+49;28/01/2024;Mouse;Eletrônicos;4;4468.17;17872.68
+50;11/01/2024;Headset;Eletrônicos;7;4485.65;31399.55
+51;08/02/2024;Mesa de Escritório;Móveis;1;1397.05;1397.05
+52;27/01/2024;Impressora;Eletrônicos;9;4099.17;36892.53
+53;10/02/2024;Celular;Eletrônicos;3;84.41;253.23
+54;08/01/2024;Impressora;Eletrônicos;9;2449.91;22049.19
+55;02/02/2024;Cadeira Gamer;Móveis;3;;4150.77
+56;24/01/2024;Mouse;Eletrônicos;6;1132.88;6797.28
+57;24/01/2024;Notebook;Eletrônicos;9;2048.99;18440.91
+58;18/02/2024;Cadeira Gamer;Móveis;4;1272.04;5088.16
+59;08/02/2024;Mesa de Escritório;Móveis;2;3575.74;7151.48
+60;06/02/2024;Mouse;Eletrônicos;1;4988.82;4988.82
+61;28/02/2024;Cadeira Gamer;Móveis;1;4884.24;4884.24
+62;28/01/2024;Mouse;Eletrônicos;6;213.6;1281.6
+63;01/02/2024;Tablet;Eletrônicos;1;3190.04;3190.04
+64;02/01/2024;Mesa de Escritório;Móveis;;2472.79;
+65;01/02/2024;Monitor;Eletrônicos;6;1248.17;7489.02
+66;04/01/2024;Celular;Eletrônicos;7;3820.02;26740.14
+67;28/02/2024;Teclado;Eletrônicos;1;3654.67;3654.67
+68;24/01/2024;Celular;Eletrônicos;5;3179.91;15899.55
+69;06/01/2024;Celular;Eletrônicos;6;;16212.48
+70;17/02/2024;Cadeira Gamer;Móveis;1;796.05;796.05
+71;28/02/2024;Mesa de Escritório;Móveis;6;3494.27;20965.62
+72;03/01/2024;Mouse;Eletrônicos;4;1663.5;6654.0
+73;05/02/2024;Impressora;Eletrônicos;3;3570.19;10710.57
+74;19/01/2024;Teclado;Eletrônicos;4;3243.61;12974.44
+75;21/02/2024;Headset;Eletrônicos;9;3470.14;
+76;08/02/2024;Cadeira Gamer;Móveis;2;4196.67;8393.34
+77;11/01/2024;Teclado;Eletrônicos;9;611.69;5505.21
+78;23/01/2024;Monitor;Eletrônicos;3;1181.32;3543.96
+79;16/01/2024;Tablet;Eletrônicos;9;2607.35;23466.15
+80;18/02/2024;Mesa de Escritório;Móveis;2;;9962.92
+81;12/01/2024;Headset;Eletrônicos;5;4507.07;22535.35
+82;28/02/2024;Cadeira Gamer;Móveis;7;1728.2;12097.4
+83;04/02/2024;Celular;Eletrônicos;3;3643.48;10930.44
+84;03/01/2024;Notebook;Eletrônicos;4;4441.08;17764.32
+85;25/02/2024;Cadeira Gamer;Móveis;1;3228.06;3228.06
+86;11/01/2024;Notebook;Eletrônicos;;850.06;850.06
+87;07/02/2024;Celular;Eletrônicos;8;3051.82;24414.56
+88;04/02/2024;Tablet;Eletrônicos;9;3334.33;30008.97
+89;29/01/2024;Mesa de Escritório;Móveis;2;846.0;1692.0
+90;18/01/2024;Mouse;Eletrônicos;2;3474.88;6949.76
+91;16/01/2024;Cadeira Gamer;Móveis;9;920.83;8287.47
+92;04/01/2024;Impressora;Eletrônicos;1;;2494.77
+93;17/02/2024;Celular;Eletrônicos;4;1864.02;
+94;08/01/2024;Cadeira Gamer;Móveis;7;3618.65;25330.55
+95;02/02/2024;Monitor;Eletrônicos;3;3199.85;9599.55
+96;22/01/2024;Tablet;Eletrônicos;6;4895.52;
+97;20/02/2024;Monitor;Eletrônicos;6;4535.19;27211.14
+98;27/01/2024;Teclado;Eletrônicos;;1782.89;3565.78
+99;02/02/2024;Mesa de Escritório;Móveis;1;1016.45;1016.45
+100;17/02/2024;Teclado;Eletrônicos;3;;8644.26

@@ -1,0 +1,30 @@
+{
+    "Faturamento": 1182063.98,
+    "Média dos Produtos": {
+        "Quantidade": {
+            "Cadeira Gamer": 5.0,
+            "Celular": 5.0,
+            "Headset": 6.0,
+            "Impressora": 5.0,
+            "Mesa de Escritório": 3.0,
+            "Monitor": 4.0,
+            "Mouse": 4.0,
+            "Notebook": 5.0,
+            "Tablet": 6.0,
+            "Teclado": 5.0
+        }
+    },
+    "Produto mais vendido": "Cadeira Gamer",
+    "Quantidade de Produtos Vendidos": {
+        "Cadeira Gamer": 80.0,
+        "Celular": 55.0,
+        "Headset": 44.0,
+        "Impressora": 38.0,
+        "Mesa de Escritório": 31.0,
+        "Monitor": 27.0,
+        "Mouse": 53.0,
+        "Notebook": 47.0,
+        "Tablet": 51.0,
+        "Teclado": 37.0
+    }
+}
