@@ -16,7 +16,7 @@ Challenge:
 Desafio:
 
 1- Carregar os dados do CSV
-Explorar os dados
+  Explorar os dados
     Exibir as primeiras linhas
 2- Limpar e preparar os dados
     Preencher valores ausentes ou remover linhas inconsistentes
